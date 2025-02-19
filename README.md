@@ -1,4 +1,4 @@
-# embarcatech_2025_u4c8_CONVERSORES_A-D
+# embarcatech_2025_u4c8_CONVERSORES_A_D
 Relatório do Projeto: Controle de LEDs e Exibição Gráfica com Conversor A/D
 
 1. Introdução
